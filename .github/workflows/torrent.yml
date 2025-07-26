@@ -9,7 +9,7 @@ env:
   comment: "test3"
   url: "https://cdn.psgamedl.com/PS3-DEC/God%20of%20War%20III%20(USA)%20(v02.00).zip?token=dXFHdlVoRlBNFG99XzhQZ11SQRdxdFtx"
   file_name: "God of War III (USA) (v02.00).zip"
-  piece_size: (2^24)
+  piece_size: 2(2^24)
       
 jobs:
   create:
